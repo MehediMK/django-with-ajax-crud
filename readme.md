@@ -112,6 +112,6 @@ django-with-ajax-crud/
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Mehedi Khan](https://github.com/MehediMK)
 
 Feel free to contribute to this project by forking and submitting a pull request. Any feedback or suggestions are also appreciated!
